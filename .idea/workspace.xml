@@ -1,0 +1,667 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config>
+        <device id="pixel_4_xl" />
+        <device id="pixel" />
+        <device id="pixel_3_xl" />
+        <device id="Nexus 6" />
+        <device id="pixel_3" />
+      </config>
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CUSTOM_FILTER" value="onCreateView" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="No Filters" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7e9938a8-2109-44d4-8f8e-a0b346e6beaf" name="Default Changelist" comment="remove  un nessary image" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/app">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Insta Deal" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Insta Deal" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Insta Deal" type="f1a62948:ProjectNode" />
+                <item name="app" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Insta Deal" type="f1a62948:ProjectNode" />
+                <item name="app" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Insta Deal" type="f1a62948:ProjectNode" />
+                <item name="app" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Insta Deal" type="f1a62948:ProjectNode" />
+                <item name="app" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="cleanup" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="navigationResourceFile" />
+        <option value="valueResourceFile" />
+        <option value="resourceFile" />
+        <option value="Kotlin File" />
+        <option value="Kotlin Class" />
+        <option value="Kotlin Interface" />
+        <option value="layoutResourceFile" />
+      </list>
+    </option>
+  </component>
+  <component name="GenerateSignedApkSettings">
+    <option name="EXPORT_PRIVATE_KEY" value="false" />
+    <option name="KEY_STORE_PATH" value="$USER_HOME$/Desktop/Instadeal.jks" />
+    <option name="KEY_ALIAS" value="kaizenit" />
+    <option name="REMEMBER_PASSWORDS" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_COMMON_BRANCH" value="main" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="ProjectId" id="1hWDkUcvgTHSB3NQF3JKCN60CHY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ApkExportedModule" value="Insta_Deal.app" />
+    <property name="BundleExportedModule" value="Insta_Deal.app" />
+    <property name="ExportApk.ApkPath" value="$PROJECT_DIR$/app" />
+    <property name="ExportApk.BuildVariants" value="release" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android-custom-view/home/mohamed/.gradle/caches/modules-2/files-2.1/androidx.recyclerview/recyclerview/1.2.0-alpha02/19d054ee0a3bafd539baed385f93ca4d898f4830/recyclerview-1.2.0-alpha02-sources.jar!/androidx/recyclerview/widget/RecyclerView.java_SELECTED" value="RecyclerView" />
+    <property name="android-custom-view/home/mohamed/.gradle/caches/modules-2/files-2.1/com.github.rakshakhegde/stepper-indicator/2.0.0-alpha/cef61f2a0073bf44bafc165d65f1bbbf13c73ac1/stepper-indicator-2.0.0-alpha-sources.jar!/com/rakshakhegde/stepperindicator/StepperIndicator.java_SELECTED" value="StepperIndicator" />
+    <property name="android-custom-view/home/mohamed/.gradle/caches/modules-2/files-2.1/com.google.android.material/material/1.3.0-alpha03/a0831ff8b42b99b5084c203070690505b638b7d2/material-1.3.0-alpha03-sources.jar!/com/google/android/material/textfield/TextInputLayout.java_SELECTED" value="TextInputLayout" />
+    <property name="android-custom-view/home/mohamed/Android/Sdk/sources/android-29/android/view/View.java_SELECTED" value="View" />
+    <property name="android-custom-view/home/mohamed/Android/Sdk/sources/android-29/android/widget/TextView.java_SELECTED" value="TextView" />
+    <property name="android-custom-view/home/mohamed/AndroidStudioProjects/InstaDeal/app/src/main/java/com/instadealcompany/newinstadeal/starterpackage/customView/OnBoardingView.kt_SELECTED" value="OnBoardingView" />
+    <property name="android-custom-view/home/mohamed/Tasks/InstaDeal/app/src/main/java/com/mohammed/hypermarketandroidtask/starterpackage/customView/OnBoardingView.kt_SELECTED" value="OnBoardingView" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/res/drawable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/src/main/res/drawable" />
+    <property name="multi-representation-preview/home/mohamed/.gradle/caches/modules-2/files-2.1/androidx.recyclerview/recyclerview/1.2.0-alpha02/19d054ee0a3bafd539baed385f93ca4d898f4830/recyclerview-1.2.0-alpha02-sources.jar!/androidx/recyclerview/widget/RecyclerView.java_selected" value="Custom views" />
+    <property name="multi-representation-preview/home/mohamed/.gradle/caches/modules-2/files-2.1/com.github.rakshakhegde/stepper-indicator/2.0.0-alpha/cef61f2a0073bf44bafc165d65f1bbbf13c73ac1/stepper-indicator-2.0.0-alpha-sources.jar!/com/rakshakhegde/stepperindicator/StepperIndicator.java_selected" value="Custom views" />
+    <property name="multi-representation-preview/home/mohamed/.gradle/caches/modules-2/files-2.1/com.google.android.material/material/1.3.0-alpha03/a0831ff8b42b99b5084c203070690505b638b7d2/material-1.3.0-alpha03-sources.jar!/com/google/android/material/textfield/TextInputLayout.java_selected" value="Custom views" />
+    <property name="multi-representation-preview/home/mohamed/Android/Sdk/sources/android-29/android/view/View.java_selected" value="Custom views" />
+    <property name="multi-representation-preview/home/mohamed/Android/Sdk/sources/android-29/android/widget/TextView.java_selected" value="Custom views" />
+    <property name="multi-representation-preview/home/mohamed/AndroidStudioProjects/InstaDeal/app/src/main/java/com/instadealcompany/newinstadeal/starterpackage/customView/OnBoardingView.kt_selected" value="Custom views" />
+    <property name="multi-representation-preview/home/mohamed/Tasks/InstaDeal/app/src/main/java/com/mohammed/hypermarketandroidtask/starterpackage/customView/OnBoardingView.kt_selected" value="Custom views" />
+    <property name="recommended.upgrade.last.time.stamp" value="1602306526555" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="com.kaizenit.com.instadeal.allcategory.adapter" />
+      <recent name="com.kaizenit.com.instadeal.datalayer" />
+      <recent name="com.instadealcompany.newinstadeal.presentation" />
+      <recent name="com.instadealcompany.newinstadeal.homef.adapter" />
+      <recent name="com.instadealcompany.newinstadeal.homef" />
+    </key>
+    <key name="android.template.1604684527">
+      <recent name="com.instadealcompany.newinstadeal.starterpackage" />
+    </key>
+    <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
+      <recent name="com.mohammed.hypermarketandroidtask.datalayer" />
+      <recent name="com.kaizenit.com.instadeal.presentation" />
+      <recent name="com.kaizenit.com.instadeal.allcategory.adapter" />
+      <recent name="com.kaizenit.com.instadeal.datalayer" />
+      <recent name="com.kaizenit.com.instadeal.subcategory" />
+    </key>
+    <key name="android.template.-1360773771">
+      <recent name="com.instadealcompany.newinstadeal.starterpackage" />
+    </key>
+    <key name="android.template.232654268">
+      <recent name="com.instadealcompany.newinstadeal.auth" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/src/main/res/drawable" />
+      <recent name="$PROJECT_DIR$/app/src/main/res/layout" />
+      <recent name="$PROJECT_DIR$/app/src/main/java/com/kaizenit/com/instadeal/profile" />
+      <recent name="$PROJECT_DIR$/app/src/main/java/com/kaizenit/com/instadeal/allcategory/adapter" />
+      <recent name="$PROJECT_DIR$/app/src/main/java/com/kaizenit/com/instadeal/allcategory" />
+    </key>
+    <key name="android.template.142259708">
+      <recent name="com.instadealcompany.newinstadeal.cardetails" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Android App.app">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="Hyper_Market.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HyperMarket [cleanBuildCache]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="cleanBuildCache" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="HyperMarket:app [cleanBuildCache]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/app" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="cleanBuildCache" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="HyperMarket:app [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/app" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.HyperMarket:app [cleanBuildCache]" />
+        <item itemvalue="Gradle.HyperMarket:app [clean]" />
+        <item itemvalue="Gradle.HyperMarket [cleanBuildCache]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7e9938a8-2109-44d4-8f8e-a0b346e6beaf" name="Default Changelist" comment="" />
+      <created>1600118097848</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600118097848</updated>
+    </task>
+    <task id="LOCAL-00001" summary="working register">
+      <created>1602889585657</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602889585657</updated>
+    </task>
+    <task id="LOCAL-00002" summary="working register">
+      <created>1602953653646</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602953653647</updated>
+    </task>
+    <task id="LOCAL-00003" summary="working register">
+      <created>1603061021217</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1603061021217</updated>
+    </task>
+    <task id="LOCAL-00004" summary="working register">
+      <created>1603061610366</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1603061610366</updated>
+    </task>
+    <task id="LOCAL-00005" summary="working on home">
+      <created>1603168499957</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1603168499957</updated>
+    </task>
+    <task id="LOCAL-00006" summary="working on home">
+      <created>1603255430143</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1603255430144</updated>
+    </task>
+    <task id="LOCAL-00007" summary="working on home">
+      <created>1603255553535</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1603255553535</updated>
+    </task>
+    <task id="LOCAL-00008" summary="working on home">
+      <created>1603290421318</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1603290421318</updated>
+    </task>
+    <task id="LOCAL-00009" summary="working on home">
+      <created>1603305572744</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1603305572744</updated>
+    </task>
+    <task id="LOCAL-00010" summary="working on product details">
+      <created>1603500336305</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1603500336305</updated>
+    </task>
+    <task id="LOCAL-00011" summary="working on product details and cart">
+      <created>1603538059180</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1603538059180</updated>
+    </task>
+    <task id="LOCAL-00012" summary="working on product details and cart">
+      <created>1603665350162</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1603665350162</updated>
+    </task>
+    <task id="LOCAL-00013" summary="working on product details and cart">
+      <created>1603752046229</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1603752046229</updated>
+    </task>
+    <task id="LOCAL-00014" summary="working on product details and cart">
+      <created>1603852540560</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1603852540560</updated>
+    </task>
+    <task id="LOCAL-00015" summary="working on product details and cart">
+      <created>1604075805045</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1604075805046</updated>
+    </task>
+    <task id="LOCAL-00016" summary="working on product details and cart">
+      <created>1604106754426</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1604106754426</updated>
+    </task>
+    <task id="LOCAL-00017" summary="working on product details and cart">
+      <created>1604357380309</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1604357380309</updated>
+    </task>
+    <task id="LOCAL-00018" summary="working on product details and cart">
+      <created>1604473649387</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1604473649388</updated>
+    </task>
+    <task id="LOCAL-00019" summary="working on product details and cart">
+      <created>1604559855904</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1604559855905</updated>
+    </task>
+    <task id="LOCAL-00020" summary="resolve some issues">
+      <created>1604705205906</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1604705205906</updated>
+    </task>
+    <task id="LOCAL-00021" summary="main and sub c sub cat">
+      <created>1604788748771</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1604788748772</updated>
+    </task>
+    <task id="LOCAL-00022" summary="main and sub c sub cat">
+      <created>1605514022965</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1605514022965</updated>
+    </task>
+    <task id="LOCAL-00023" summary="main and sub c sub cat and before  adding page library">
+      <created>1606768351920</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1606768351920</updated>
+    </task>
+    <task id="LOCAL-00024" summary="main and sub c sub cat and before  adding page library fix bugs in design">
+      <created>1606806424481</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1606806424481</updated>
+    </task>
+    <task id="LOCAL-00025" summary="main and sub c sub cat and before  adding page library fix bugs in design">
+      <created>1606864774177</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1606864774178</updated>
+    </task>
+    <task id="LOCAL-00026" summary="main and sub c sub cat and before  adding page library fix bugs in design">
+      <created>1607323968399</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1607323968399</updated>
+    </task>
+    <task id="LOCAL-00027" summary="working on sub category">
+      <created>1607379969083</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1607379969083</updated>
+    </task>
+    <task id="LOCAL-00028" summary="working on sub category">
+      <created>1607553153723</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1607553153723</updated>
+    </task>
+    <task id="LOCAL-00029" summary="working on sub category">
+      <created>1607993213047</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1607993213047</updated>
+    </task>
+    <task id="LOCAL-00030" summary="remove  un nessary image">
+      <created>1607993410075</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1607993410075</updated>
+    </task>
+    <task id="LOCAL-00031" summary="creat sample search for hyper market">
+      <created>1608024616791</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1608024616791</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="working register" />
+    <MESSAGE value="working on home" />
+    <MESSAGE value="working on product details" />
+    <MESSAGE value="working on product details and cart" />
+    <MESSAGE value="resolve some issues" />
+    <MESSAGE value="main and sub c sub cat" />
+    <MESSAGE value="main and sub c sub cat and before  adding page library" />
+    <MESSAGE value="main and sub c sub cat and before  adding page library fix bugs in design" />
+    <MESSAGE value="working on sub category" />
+    <MESSAGE value="remove  un nessary image" />
+    <MESSAGE value="creat sample search for hyper market" />
+    <option name="LAST_COMMIT_MESSAGE" value="creat sample search for hyper market" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="490" y="115" width="632" height="562" key="#com.intellij.ide.util.MemberChooser" timestamp="1607808181796">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="490" y="115" width="632" height="562" key="#com.intellij.ide.util.MemberChooser/67.27.1299.741@67.27.1299.741" timestamp="1607808181796" />
+    <state x="200" y="321" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1604882507364">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="200" y="321" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/67.27.1299.741@67.27.1299.741" timestamp="1604882507364" />
+    <state x="325" y="27" width="762" height="741" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1603200331237">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="325" y="27" width="762" height="741" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/67.27.1299.741@67.27.1299.741" timestamp="1603200331237" />
+    <state x="449" y="145" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1607981476963">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="449" y="145" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/67.27.1299.741@67.27.1299.741" timestamp="1607981476963" />
+    <state x="416" y="49" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog" timestamp="1607774116695">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="416" y="49" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog/67.27.1299.741@67.27.1299.741" timestamp="1607774116695" />
+    <state x="299" y="154" width="824" height="484" key="AndroidCreateResourceDirectoryDialog" timestamp="1603147720951">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="299" y="154" width="824" height="484" key="AndroidCreateResourceDirectoryDialog/67.27.1299.741@67.27.1299.741" timestamp="1603147720951" />
+    <state x="380" y="224" width="824" height="484" key="AndroidCreateResourceFileDialog" timestamp="1607770738185">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="380" y="224" width="824" height="484" key="AndroidCreateResourceFileDialog/67.27.1299.741@67.27.1299.741" timestamp="1607770738185" />
+    <state x="529" y="211" width="468" height="370" key="AndroidCreateXmlResourceDialog" timestamp="1607987259976">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="529" y="211" width="468" height="370" key="AndroidCreateXmlResourceDialog/67.27.1299.741@67.27.1299.741" timestamp="1607987259976" />
+    <state x="67" y="27" width="1299" height="741" key="CommitChangelistDialog2" timestamp="1608024864383">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="67" y="27" width="1299" height="741" key="CommitChangelistDialog2/67.27.1299.741@67.27.1299.741" timestamp="1608024864383" />
+    <state x="383" y="154" key="Downloadable.Font.Dialog.Size" timestamp="1601725726953">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="383" y="154" key="Downloadable.Font.Dialog.Size/67.27.1299.741@67.27.1299.741" timestamp="1601725726953" />
+    <state x="472" y="141" width="472" height="513" key="FileChooserDialogImpl" timestamp="1607503067131">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="472" y="141" width="472" height="513" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1607503067131" />
+    <state width="1253" height="2" key="GridCell.Tab.0.bottom" timestamp="1607993336525">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="2" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1607993336524" />
+    <state width="1253" height="2" key="GridCell.Tab.0.center" timestamp="1607993336524">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="2" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1607993336524" />
+    <state width="1253" height="2" key="GridCell.Tab.0.left" timestamp="1607993336523">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="2" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1607993336523" />
+    <state width="1253" height="2" key="GridCell.Tab.0.right" timestamp="1607993336524">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="2" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1607993336524" />
+    <state x="503" y="81" width="417" height="633" key="RollbackChangesDialog" timestamp="1608024343642">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="503" y="81" width="417" height="633" key="RollbackChangesDialog/67.27.1299.741@67.27.1299.741" timestamp="1608024343642" />
+    <state x="205" y="31" key="SettingsEditor" timestamp="1608023968067">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="205" y="31" key="SettingsEditor/67.27.1299.741@67.27.1299.741" timestamp="1608023968067" />
+    <state x="311" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1608024720685">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="311" y="132" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1299.741@67.27.1299.741" timestamp="1608024720685" />
+    <state x="488" y="176" width="446" height="440" key="chooseDestDirectoryDialog" timestamp="1607990592226">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="488" y="176" width="446" height="440" key="chooseDestDirectoryDialog/67.27.1299.741@67.27.1299.741" timestamp="1607990592226" />
+    <state x="372" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1602574892799">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="372" y="224" key="com.intellij.ide.util.TipDialog/67.27.1299.741@67.27.1299.741" timestamp="1602574892799" />
+    <state x="474" y="185" width="475" height="423" key="git4idea.merge.GitPullDialog" timestamp="1608024303208">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="474" y="185" width="475" height="423" key="git4idea.merge.GitPullDialog/67.27.1299.741@67.27.1299.741" timestamp="1608024303208" />
+    <state x="380" y="175" key="run.anything.popup" timestamp="1604765248309">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="380" y="175" key="run.anything.popup/67.27.1299.741@67.27.1299.741" timestamp="1604765248309" />
+    <state x="379" y="88" width="672" height="678" key="search.everywhere.popup" timestamp="1607840390175">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="379" y="88" width="672" height="678" key="search.everywhere.popup/67.27.1299.741@67.27.1299.741" timestamp="1607840390175" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/mohammed/com/instadeal/presentation/CartViewModel.kt</url>
+          <line>119</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

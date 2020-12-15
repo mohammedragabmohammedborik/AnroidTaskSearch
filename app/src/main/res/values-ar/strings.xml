@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">هيبر ماركت</string>
+
+    <string name="next">التالي </string>
+    <string name="get_start">ابد الان </string>
+    <string name="cancel">الغاء</string>
+    <string name="search">بحث</string>
+
+
+</resources>

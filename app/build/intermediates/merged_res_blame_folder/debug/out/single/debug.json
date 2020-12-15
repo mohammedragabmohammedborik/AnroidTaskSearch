@@ -1,0 +1,154 @@
+[
+    {
+        "merged": "/home/mohamed/Tasks/HyperMarket/app/build/intermediates/res/merged/debug/drawable-xxhdpi_hyper.png.flat",
+        "source": "/home/mohamed/Tasks/HyperMarket/app/src/main/res/drawable-xxhdpi/hyper.png"
+    },
+    {
+        "merged": "/home/mohamed/Tasks/HyperMarket/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/mohamed/Tasks/HyperMarket/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/mohamed/Tasks/HyperMarket/app/build/intermediates/res/merged/debug/layout_home_activity.xml.flat",
+        "source": "/home/mohamed/Tasks/HyperMarket/app/src/main/res/layout/home_activity.xml"
+    },
+    {
+        "merged": "/home/mohamed/Tasks/HyperMarket/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/home/mohamed/Tasks/HyperMarket/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/mohamed/Tasks/HyperMarket/app/build/intermediates/res/merged/debug/font_bebas_neue_regular_num.ttf.flat",
+        "source": "/home/mohamed/Tasks/HyperMarket/app/src/main/res/font/bebas_neue_regular_num.ttf"
+    },
+    {
+        "merged": "/home/mohamed/Tasks/HyperMarket/app/build/intermediates/res/merged/debug/layout_search_fragment.xml.flat",
+        "source": "/home/mohamed/Tasks/HyperMarket/app/src/main/res/layout/search_fragment.xml"
+    },
+    {
+        "merged": "/home/mohamed/Tasks/HyperMarket/app/build/intermediates/res/merged/debug/font_arialbold.ttf.flat",
+        "source": "/home/mohamed/Tasks/HyperMarket/app/src/main/res/font/arialbold.ttf"
+    },
+    {
+        "merged": "/home/mohamed/Tasks/HyperMarket/app/build/intermediates/res/merged/debug/layout_onboarding_view.xml.flat",
+        "source": "/home/mohamed/Tasks/HyperMarket/app/src/main/res/layout/onboarding_view.xml"
+    },
+    {
+        "merged": "/home/mohamed/Tasks/HyperMarket/app/build/intermediates/res/merged/debug/layout_activity_on_boarding.xml.flat",
+        "source": "/home/mohamed/Tasks/HyperMarket/app/src/main/res/layout/activity_on_boarding.xml"
+    },
+    {
+        "merged": "/home/mohamed/Tasks/HyperMarket/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/mohamed/Tasks/HyperMarket/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/mohamed/Tasks/HyperMarket/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/mohamed/Tasks/HyperMarket/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/mohamed/Tasks/HyperMarket/app/build/intermediates/res/merged/debug/drawable-mdpi_hyper2.png.flat",
+        "source": "/home/mohamed/Tasks/HyperMarket/app/src/main/res/drawable-mdpi/hyper2.png"
+    },
+    {
+        "merged": "/home/mohamed/Tasks/HyperMarket/app/build/intermediates/res/merged/debug/font_sc_dubai_mtitle.ttf.flat",
+        "source": "/home/mohamed/Tasks/HyperMarket/app/src/main/res/font/sc_dubai_mtitle.ttf"
+    },
+    {
+        "merged": "/home/mohamed/Tasks/HyperMarket/app/build/intermediates/res/merged/debug/drawable-xhdpi_hyper2.png.flat",
+        "source": "/home/mohamed/Tasks/HyperMarket/app/src/main/res/drawable-xhdpi/hyper2.png"
+    },
+    {
+        "merged": "/home/mohamed/Tasks/HyperMarket/app/build/intermediates/res/merged/debug/font_arial.ttf.flat",
+        "source": "/home/mohamed/Tasks/HyperMarket/app/src/main/res/font/arial.ttf"
+    },
+    {
+        "merged": "/home/mohamed/Tasks/HyperMarket/app/build/intermediates/res/merged/debug/drawable-mdpi_hyper.png.flat",
+        "source": "/home/mohamed/Tasks/HyperMarket/app/src/main/res/drawable-mdpi/hyper.png"
+    },
+    {
+        "merged": "/home/mohamed/Tasks/HyperMarket/app/build/intermediates/res/merged/debug/layout_home_fragment.xml.flat",
+        "source": "/home/mohamed/Tasks/HyperMarket/app/src/main/res/layout/home_fragment.xml"
+    },
+    {
+        "merged": "/home/mohamed/Tasks/HyperMarket/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/home/mohamed/Tasks/HyperMarket/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/mohamed/Tasks/HyperMarket/app/build/intermediates/res/merged/debug/layout_item_search.xml.flat",
+        "source": "/home/mohamed/Tasks/HyperMarket/app/src/main/res/layout/item_search.xml"
+    },
+    {
+        "merged": "/home/mohamed/Tasks/HyperMarket/app/build/intermediates/res/merged/debug/drawable_curved_gradian_shape.xml.flat",
+        "source": "/home/mohamed/Tasks/HyperMarket/app/src/main/res/drawable/curved_gradian_shape.xml"
+    },
+    {
+        "merged": "/home/mohamed/Tasks/HyperMarket/app/build/intermediates/res/merged/debug/xml_oboarding_main_scene.xml.flat",
+        "source": "/home/mohamed/Tasks/HyperMarket/app/src/main/res/xml/oboarding_main_scene.xml"
+    },
+    {
+        "merged": "/home/mohamed/Tasks/HyperMarket/app/build/intermediates/res/merged/debug/drawable_ic_row_forward_24.xml.flat",
+        "source": "/home/mohamed/Tasks/HyperMarket/app/src/main/res/drawable/ic_row_forward_24.xml"
+    },
+    {
+        "merged": "/home/mohamed/Tasks/HyperMarket/app/build/intermediates/res/merged/debug/drawable-hdpi_hyper.png.flat",
+        "source": "/home/mohamed/Tasks/HyperMarket/app/src/main/res/drawable-hdpi/hyper.png"
+    },
+    {
+        "merged": "/home/mohamed/Tasks/HyperMarket/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/home/mohamed/Tasks/HyperMarket/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/mohamed/Tasks/HyperMarket/app/build/intermediates/res/merged/debug/font_avenirroman.otf.flat",
+        "source": "/home/mohamed/Tasks/HyperMarket/app/src/main/res/font/avenirroman.otf"
+    },
+    {
+        "merged": "/home/mohamed/Tasks/HyperMarket/app/build/intermediates/res/merged/debug/drawable-xhdpi_hyper.png.flat",
+        "source": "/home/mohamed/Tasks/HyperMarket/app/src/main/res/drawable-xhdpi/hyper.png"
+    },
+    {
+        "merged": "/home/mohamed/Tasks/HyperMarket/app/build/intermediates/res/merged/debug/drawable-hdpi_hyper2.png.flat",
+        "source": "/home/mohamed/Tasks/HyperMarket/app/src/main/res/drawable-hdpi/hyper2.png"
+    },
+    {
+        "merged": "/home/mohamed/Tasks/HyperMarket/app/build/intermediates/res/merged/debug/transition_activity_main_exit.xml.flat",
+        "source": "/home/mohamed/Tasks/HyperMarket/app/src/main/res/transition/activity_main_exit.xml"
+    },
+    {
+        "merged": "/home/mohamed/Tasks/HyperMarket/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/home/mohamed/Tasks/HyperMarket/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/mohamed/Tasks/HyperMarket/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/mohamed/Tasks/HyperMarket/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/mohamed/Tasks/HyperMarket/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/home/mohamed/Tasks/HyperMarket/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/mohamed/Tasks/HyperMarket/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/home/mohamed/Tasks/HyperMarket/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/mohamed/Tasks/HyperMarket/app/build/intermediates/res/merged/debug/navigation_homenav.xml.flat",
+        "source": "/home/mohamed/Tasks/HyperMarket/app/src/main/res/navigation/homenav.xml"
+    },
+    {
+        "merged": "/home/mohamed/Tasks/HyperMarket/app/build/intermediates/res/merged/debug/transition_activity_main_reenter.xml.flat",
+        "source": "/home/mohamed/Tasks/HyperMarket/app/src/main/res/transition/activity_main_reenter.xml"
+    },
+    {
+        "merged": "/home/mohamed/Tasks/HyperMarket/app/build/intermediates/res/merged/debug/font_almari_regular.ttf.flat",
+        "source": "/home/mohamed/Tasks/HyperMarket/app/src/main/res/font/almari_regular.ttf"
+    },
+    {
+        "merged": "/home/mohamed/Tasks/HyperMarket/app/build/intermediates/res/merged/debug/drawable-xxhdpi_hyper2.png.flat",
+        "source": "/home/mohamed/Tasks/HyperMarket/app/src/main/res/drawable-xxhdpi/hyper2.png"
+    },
+    {
+        "merged": "/home/mohamed/Tasks/HyperMarket/app/build/intermediates/res/merged/debug/layout_onboarding_page_item.xml.flat",
+        "source": "/home/mohamed/Tasks/HyperMarket/app/src/main/res/layout/onboarding_page_item.xml"
+    },
+    {
+        "merged": "/home/mohamed/Tasks/HyperMarket/app/build/intermediates/res/merged/debug/drawable_ic_baseline_search_24.xml.flat",
+        "source": "/home/mohamed/Tasks/HyperMarket/app/src/main/res/drawable/ic_baseline_search_24.xml"
+    }
+]

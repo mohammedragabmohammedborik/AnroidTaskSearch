@@ -1,0 +1,67 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+    </style>
+
+
+
+    <style name="FullscreenActionBarStyle" parent="Widget.AppCompat.ActionBar">
+        <item name="android:background">@color/black_overlay</item>
+    </style>
+
+    ///
+    <!-- Theme for OnBoardingActivity (applying some transition) -->
+    <style name="AppTheme.OnBoarding">
+        <item name="android:windowSharedElementsUseOverlay">false</item>
+        <item name="android:windowContentTransitions">true</item>
+
+        <item name="android:windowExitTransition">@transition/activity_main_exit</item>
+        <item name="android:windowReenterTransition">@transition/activity_main_reenter</item>
+    </style>
+
+    <style name="Widget.MaterialComponents.Button.TextButton.OnBoardTextButton"
+        parent="Widget.MaterialComponents.Button.TextButton">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/whightcolor</item>
+    </style>
+
+    <style name="EditText">
+    <item name="android:fontFamily">@font/arial</item>
+    <item name="android:textSize">@dimen/sp18</item>
+        <item name="android:textColor">@color/blackcolor</item>
+    </style>
+    //
+    <style name="SmallGrayText">
+        <item name="android:fontFamily">@font/arial</item>
+        <item name="android:textSize">@dimen/sp16</item>
+        <item name="android:textColor">@color/rmady</item>
+    </style>
+    <style name="SmallBlackText">
+        <item name="android:fontFamily">@font/arial</item>
+        <item name="android:textSize">@dimen/sp16</item>
+        <item name="android:textColor">@color/blackcolor</item>
+    </style>
+    <style name="SmallOrangeext">
+        <item name="android:fontFamily">@font/arial</item>
+        <item name="android:textSize">@dimen/sp16</item>
+        <item name="android:textColor">@color/orange_yello</item>
+    </style>
+    <style name="whight_button_text">
+        <item name="android:fontFamily">@font/arial</item>
+        <item name="android:textSize">@dimen/sp16</item>
+        <item name="android:textColor">@color/whightcolor</item>
+        <item name="android:paddingStart">@dimen/dimen16</item>
+        <item name="android:paddingTop">@dimen/dimen8</item>
+        <item name="android:paddingEnd">@dimen/dimen16</item>
+        <item name="android:paddingBottom">@dimen/dimen8</item>
+
+    </style>
+
+
+</resources>

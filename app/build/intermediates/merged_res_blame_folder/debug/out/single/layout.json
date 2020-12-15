@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/home/mohamed/Tasks/HyperMarket/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_search.xml",
+        "source": "/home/mohamed/Tasks/HyperMarket/app/src/main/res/layout/item_search.xml"
+    },
+    {
+        "merged": "/home/mohamed/Tasks/HyperMarket/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/onboarding_page_item.xml",
+        "source": "/home/mohamed/Tasks/HyperMarket/app/src/main/res/layout/onboarding_page_item.xml"
+    },
+    {
+        "merged": "/home/mohamed/Tasks/HyperMarket/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/home_activity.xml",
+        "source": "/home/mohamed/Tasks/HyperMarket/app/src/main/res/layout/home_activity.xml"
+    },
+    {
+        "merged": "/home/mohamed/Tasks/HyperMarket/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/home_fragment.xml",
+        "source": "/home/mohamed/Tasks/HyperMarket/app/src/main/res/layout/home_fragment.xml"
+    },
+    {
+        "merged": "/home/mohamed/Tasks/HyperMarket/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/search_fragment.xml",
+        "source": "/home/mohamed/Tasks/HyperMarket/app/src/main/res/layout/search_fragment.xml"
+    },
+    {
+        "merged": "/home/mohamed/Tasks/HyperMarket/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_on_boarding.xml",
+        "source": "/home/mohamed/Tasks/HyperMarket/app/src/main/res/layout/activity_on_boarding.xml"
+    },
+    {
+        "merged": "/home/mohamed/Tasks/HyperMarket/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/onboarding_view.xml",
+        "source": "/home/mohamed/Tasks/HyperMarket/app/src/main/res/layout/onboarding_view.xml"
+    }
+]

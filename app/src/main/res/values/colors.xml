@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F59331</color>
+    <color name="colorPrimaryDark">#F59331</color>
+    <color name="colorAccent">#FFC10E</color>
+    <color name="whightcolor">#ffffff</color>
+    <color name="whightcolor2">#00FFFFFF</color>
+
+    <color name="blackcolor">#000000</color>
+    <color name="red_d">#F36C76</color>
+    <color name="red">#FF0618</color>
+    <color name="light_red">#F4897D</color>
+    <color name="yellow">#FFC10E</color>
+    <color name="light_wight">#F8f8f8</color>
+    <color name="rmady">#c4c2c2</color>
+    <color name="orange_yello">#F59331</color>
+    <color name="orange_yello_li">#E2F3D393</color>
+
+    <color name="ramady_dark">#8B8989</color>
+    <color name="kohly">#2C3E50</color>
+    <color name="light_green">#6FDD4E</color>
+    <color name="light_blue">#72a3ff</color>
+    <color name="v_light_blue">#D0DBEB</color>
+    <color name="v_light_rmady">#F5F6FA</color>
+    <color name="light_rmady">#EBEBEB</color>
+    <color name="light_black">#5D5C5C</color>
+    <color name="v_ramady_dark">#515C6F</color>
+    <color name="bg_product_details">#F8F8F8</color>
+
+    <color name="black_overlay">#66000000</color>
+    <color name="light_yellow">#FFEFBC</color>
+
+    <color name="blue_ch">#5590FF</color>
+
+
+
+    <!--    // try to make transluarent status bar-->
+    <color name="system_ui_scrim_light">#E3ffffff</color>
+    <color name="system_ui_scrim_dark">#C3000000</color>
+
+    <color name="status_bar_scrim">@color/system_ui_scrim_dark</color>
+    <color name="nav_bar_scrim">@color/status_bar_scrim</color>
+
+</resources>
